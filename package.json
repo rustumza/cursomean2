@@ -1,0 +1,32 @@
+{
+  "name": "cursomean2",
+  "version": "1.0.0",
+  "description": "Curso mean 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustumza/cursomean2.git"
+  },
+  "author": "Guillermo Puntons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rustumza/cursomean2/issues"
+  },
+  "homepage": "https://github.com/rustumza/cursomean2#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.16.4",
+    "jwt-simple": "^0.5.5",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.16",
+    "mongoose-pagination": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
